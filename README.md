@@ -1,6 +1,7 @@
 This is knight rider project ( a arduino project about lighting LED in various patterns )
 
 the 3 patterns include:-
+
 Patern 0: left to right and right to left
 
 Patern 1: Diverging from the middle then colapsing towards middle from the ends
